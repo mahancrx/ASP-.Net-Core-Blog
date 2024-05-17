@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF68FF25-973A-4B0F-90A3-4068B5FB7750}|blog\\blog.csproj|d:\\projects\\c#\\asp-.net-core-blog\\projects\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF68FF25-973A-4B0F-90A3-4068B5FB7750}|blog\\blog.csproj|solutionrelative:blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|d:\\projects\\c#\\asp-.net-core-blog\\projects\\asp-.net-core-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|solutionrelative:asp-.net-core-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|d:\\projects\\c#\\asp-.net-core-blog\\projects\\asp-.net-core-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|solutionrelative:asp-.net-core-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|d:\\projects\\c#\\asp-.net-core-blog\\projects\\asp-.net-core-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|solutionrelative:asp-.net-core-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|d:\\projects\\c#\\asp-.net-core-blog\\projects\\asp-.net-core-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|solutionrelative:asp-.net-core-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|d:\\projects\\c#\\asp-.net-core-blog\\projects\\asp-.net-core-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2B82C-0B31-4358-A6E3-599D412DBFC5}|ASP-.Net-Core-Blog.DataLayer\\ASP-.Net-Core-Blog.DataLayer.csproj|solutionrelative:asp-.net-core-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\blog\\Program.cs",
+              "RelativeDocumentMoniker": "blog\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\blog\\Program.cs",
+              "RelativeToolTip": "blog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:09:54.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeDocumentMoniker": "ASP-.Net-Core-Blog.DataLayer\\Context\\BlogContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeToolTip": "ASP-.Net-Core-Blog.DataLayer\\Context\\BlogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:44:32.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ASP-.Net-Core-Blog.DataLayer\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "ASP-.Net-Core-Blog.DataLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:27:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostComment.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\PostComment.cs",
+              "RelativeDocumentMoniker": "ASP-.Net-Core-Blog.DataLayer\\Entities\\PostComment.cs",
+              "ToolTip": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\PostComment.cs",
+              "RelativeToolTip": "ASP-.Net-Core-Blog.DataLayer\\Entities\\PostComment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:29:52.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ASP-.Net-Core-Blog.DataLayer\\Entities\\Category.cs",
+              "ToolTip": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "ASP-.Net-Core-Blog.DataLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:25:29.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "ASP-.Net-Core-Blog.DataLayer\\Entities\\Post.cs",
+              "ToolTip": "D:\\Projects\\C#\\ASP-.Net-Core-Blog\\Projects\\ASP-.Net-Core-Blog.DataLayer\\Entities\\Post.cs",
+              "RelativeToolTip": "ASP-.Net-Core-Blog.DataLayer\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:22:47.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

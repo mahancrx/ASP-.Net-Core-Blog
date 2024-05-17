@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASP-.Net-Core-Blog.CoreLayer\ASP-.Net-Core-Blog.CoreLayer.csproj" />
+    <ProjectReference Include="..\ASP-.Net-Core-Blog.DataLayer\ASP-.Net-Core-Blog.DataLayer.csproj" />
+  </ItemGroup>
+
+</Project>
